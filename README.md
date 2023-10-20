@@ -1,10 +1,10 @@
 ## Hi! I'm Marcos Henrique C S D'Ávila
 
-- 🔭 Today I work with front-end and QA Teste. 
+- 🔭 Today I work with QA Teste. 
 - 💻 Graduated in Information Systems and Apple Cell Phone Technician.
-- 🌱 Studying javascript, typescript, angular, ionic, Java, MySQL. 
+- 🌱 javascript, typescript, php, laravel, angular, ionic3, Java, MySQL. 
 - 👯 I'm collaborating to create a training management system on WEBACADEMY.
-- 🤔 Looking for opportunity as a Programmer.
+- 🤔 Always looking for professional growth.
 - 💬 contact me at e-mail: marcossistemas.ac@gmail.com
 
 <div>
